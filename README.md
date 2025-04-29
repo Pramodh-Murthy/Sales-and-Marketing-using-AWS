@@ -1,1 +1,0 @@
-# Sales-and-Marketing-using-AWS
